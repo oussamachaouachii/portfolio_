@@ -44,7 +44,7 @@ export const siteConfig = {
     },
     {
       company: "Speedykom Group",
-      title: "DevSecOps Engineer - Working Student Position",
+      title: "Platform Engineer - Working Student Position",
       dateRange: "April 2024 - Mars 2025",
       bullets: [
         "Worked on building secure E-Health platforms.",
